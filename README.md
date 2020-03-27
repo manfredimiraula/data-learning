@@ -1,5 +1,5 @@
-# datacamp
-DataCamp learning scripts
+# Data Learning
+Scripts and Jupyter Notebook on the path towards Data Science
 
 ## DataCamp DataEngeneer track
 This is the full DataCamp DataEngeneer track. The track is split into multiple Jupyter Notebooks for each chapter of the track.
